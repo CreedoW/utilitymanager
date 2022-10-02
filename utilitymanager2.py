@@ -1,5 +1,4 @@
 from tkinter import *
-from tkinter import messagebox
 from customtkinter import *
 import os, csv, time, requests, pathlib
 from config import keys, logincreds, settings
