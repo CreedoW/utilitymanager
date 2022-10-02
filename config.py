@@ -1,5 +1,5 @@
 keys = {
-    'scraperapi': '769eba83c351659a49896d35cb6099f2', #used for tests
+    'scraperapi': '', #used for tests, is not needed in that version !
     'discordwebhook': 'https://discord.com/api/webhooks/1025856521097187350/rsUZ1wgsbvrzdu3cHXrFPGHn3oNGBipQbEwcD_REk3HVydjIG2L42-3e2ldP7KpUIwk_' # for webhook integration
 }
 logincreds = {
