@@ -64,8 +64,6 @@ def mainwindow():
         def scrape(choice):
 
             proxies = 'proxies.txt'
-            if os.path.exists(proxies):
-                messagebox.showinfo('DELETE PROXIES', 'If your proxies are not getting replaced u have to delete `proxies.txt` manually!')
 
             with open(proxies, 'w') as f:
                 f.truncate(0)
